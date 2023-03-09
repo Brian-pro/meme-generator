@@ -5,4 +5,4 @@ https://scrimba.com/playlist/prXJpCQ
 
 Deployed using Netlify:
 
-https://jovial-basbousa-29bc3f.netlify.app
+https://courageous-tarsier-e4cc30.netlify.app/
