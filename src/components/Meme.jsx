@@ -20,8 +20,6 @@ export default function Meme () {
         getMemes()
     }, [])
 
-    console.log(allMemeImages);
-
     function getMemeImage(event) {
         const {name, type, value} = event.target
         setMemeImage(prevMemeImage => {
